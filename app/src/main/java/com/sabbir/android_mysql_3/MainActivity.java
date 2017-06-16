@@ -7,6 +7,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.EditText;
 
+
+//How are you ..
 public class MainActivity extends Activity {
     EditText ET_NAME, ET_PASS;
     String login_name, login_pass;
