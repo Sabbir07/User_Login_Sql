@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android-MySQL</string>
+    <string name="idleness_toast">"You are getting late do it fast"</string>
+</resources>
